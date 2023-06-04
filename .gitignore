@@ -5,3 +5,20 @@
 .classpath
 .project
 .settings/
+
+# Ignore target directory
+/target/
+
+# Ignore all files with .log extension
+*.log
+
+# Ignore target directory
+/target/
+
+# Ignore JUnit-generated results
+**/surefire-reports/
+
+# Ignore text files
+*.txt
+
+
